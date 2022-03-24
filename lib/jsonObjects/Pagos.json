@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "623ca9dd1e6a8766b6cb8286"
+  },
+  "MediodePago": "Electronico",
+  "FechaPago": "02/03/2022",
+  "Destino": "Brackets"
+},{
+  "_id": {
+    "$oid": "623ca9dd1e6a8766b6cb8287"
+  },
+  "MediodePago": "Efectivo",
+  "FechaPago": "03/05/2022",
+  "Destino": "Endodoncia"
+},{
+  "_id": {
+    "$oid": "623ca9dd1e6a8766b6cb8288"
+  },
+  "MediodePago": "Electronico",
+  "FechaPago": "10/02/2022",
+  "Destino": "Profilaxis"
+}]

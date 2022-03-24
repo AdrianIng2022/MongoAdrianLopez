@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "623ca5021e6a8766b6cb8274"
+  },
+  "tratamiento ": "Brackets",
+  "procedimiento": "Instalacion brackets"
+},{
+  "_id": {
+    "$oid": "623ca5021e6a8766b6cb8275"
+  },
+  "tratamiento ": "Endodoncia",
+  "procedimiento": "Extraccion nervio"
+},{
+  "_id": {
+    "$oid": "623ca5021e6a8766b6cb8276"
+  },
+  "tratamiento ": "Blanqueamiento",
+  "procedimiento": "Blanqueamiento con laser"
+}]

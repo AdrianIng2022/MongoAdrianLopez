@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "623cafb31e6a8766b6cb828d"
+  },
+  "Nombre": "Odontopediatria",
+  "Tipo": "Preventiva",
+  "valoracion": "si"
+},{
+  "_id": {
+    "$oid": "623cafb31e6a8766b6cb828e"
+  },
+  "Nombre": "Rehabilitacion Oral",
+  "Tipo": "Correctiva",
+  "valoracion": "si"
+},{
+  "_id": {
+    "$oid": "623cafb31e6a8766b6cb828f"
+  },
+  "Nombre": "Periodoncia",
+  "Tipo": "Correctiva",
+  "valoracion": "si"
+}]

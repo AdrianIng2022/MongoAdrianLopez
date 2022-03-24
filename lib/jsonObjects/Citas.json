@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "623cb18f1e6a8766b6cb8293"
+  },
+  "fecha": "12/04/2022",
+  "Lugar": "Consultorio",
+  "Hora": "3:00pm"
+},{
+  "_id": {
+    "$oid": "623cb18f1e6a8766b6cb8294"
+  },
+  "fecha": "09/05/2022",
+  "Lugar": "Consultorio",
+  "Hora": "4:00pm"
+},{
+  "_id": {
+    "$oid": "623cb18f1e6a8766b6cb8295"
+  },
+  "fecha": "05/06/2022",
+  "Lugar": "Consultorio",
+  "Hora": "2:00pm"
+}]

@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "623ca6d21e6a8766b6cb8280"
+  },
+  "Nombre ": "Ibuprofeno",
+  "subsidiado": "si",
+  "presentacion": "Tabletas"
+},{
+  "_id": {
+    "$oid": "623ca6d21e6a8766b6cb8281"
+  },
+  "Nombre ": "Amoxicilina",
+  "subsidiado": "si",
+  "presentacion": "capsulas"
+},{
+  "_id": {
+    "$oid": "623ca6d21e6a8766b6cb8282"
+  },
+  "Nombre ": "cedante",
+  "subsidiado": "si",
+  "presentacion": "inyectable"
+}]
